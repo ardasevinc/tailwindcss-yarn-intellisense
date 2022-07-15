@@ -2,8 +2,8 @@
 
 ## Steps to reproduce the error
 
-1. Clone the repo
-2. `$ yarn`
+1. Scaffold the project with the commands given below
+2. Add the tailwind config including daisyui as a plugin (see the config in this repo)
 3. Open the folder in vs code
 
 ## Steps taken to scaffold this project
