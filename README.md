@@ -2,9 +2,13 @@
 
 ## Steps to reproduce the error
 
-1. Scaffold the project with the commands given below
-2. Add the tailwind config including daisyui as a plugin (see the config in this repo)
-3. Open the folder in vs code
+If you have installed `daisyui` in any project with yarn v3, you won't be able to reproduce the issue.
+I don't know how to clean the packages or  where yarn plug'n'play saves them.
+
+1. Clone this repo
+2. Run `yarn` inside of the folder
+3. Open the folder in vs code.
+
 
 ## Steps taken to scaffold this project
 
